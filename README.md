@@ -20,4 +20,8 @@ python principal.py
     <img src="https://user-images.githubusercontent.com/85804895/134172074-46a4dbab-475f-4668-8dbe-8d13bcf2a2a1.png", width=900>
 </span>
 
+<span align="center">
+    <img src="https://user-images.githubusercontent.com/85804895/134172329-1efca6bd-0eea-4583-9293-5cbd10d45e4d.png", width=900>
+</span>
+
 
