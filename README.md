@@ -8,4 +8,16 @@ Rest API com Python, Flask, com banco de dados SQLAclhemy e um exemplo de banco 
 python setup.py develop
 ```
 
+# Rodando a aplicação
+
+```bash
+python principal.py
+```
+
+# Teste no Postman
+
+<span align="center">
+    <img src="https://user-images.githubusercontent.com/85804895/134172074-46a4dbab-475f-4668-8dbe-8d13bcf2a2a1.png", width=900>
+</span>
+
 
